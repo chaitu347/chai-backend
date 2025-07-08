@@ -1,6 +1,6 @@
 #chai aur backend series
 
-this is a video xseries on backend development with javascript
+this is a video series on backend development with javascript
 
 npm install touch-cli -g     #used to download the touch
 
